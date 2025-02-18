@@ -4,19 +4,19 @@ Chimely is a Chrome extension designed to help you stay focused and mindful thro
 
 ## Features
 
-- ⏰ Customizable time intervals
-- 🔔 Multiple gentle notification sounds
-- 🔄 Sound rotation option
-- 🔊 Volume control
-- 🌓 Light/Dark theme
-- 💻 Clean, minimal interface
+⏰ Customizable time intervals<br/>
+🔔 Multiple gentle notification sounds<br/>
+🔄 Sound rotation option<br/>
+🔊 Volume control<br/>
+🌓 Light/Dark theme<br/>
+💻 Clean, minimal interface
 
 ## How It Works
 
-Set your preferred interval, choose your favorite notification sound, and let Chimely remind you to stay focused. Perfect for:
-💻 Maintaining focus during work sessions
-⏰ Taking regular, mindful breaks
-👀 Preventing screen time fatigue
+Set your preferred interval, choose your favorite notification sound, and let Chimely remind you to stay focused. Perfect for:<br/>
+💻 Maintaining focus during work sessions <br/>
+⏰ Taking regular, mindful breaks<br/>
+👀 Preventing screen time fatigue<br/>
 🧘‍♂️ Staying productive without stress
 
 ## Installation
