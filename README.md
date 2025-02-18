@@ -28,7 +28,7 @@ Get Chimely from the [Chrome Web Store](your-chrome-store-link)
 If you find Chimely helpful, consider:
 - Leaving a review on the Chrome Web Store
 - Sharing with friends and colleagues
-- [Supporting the project](your-ko-fi-link)
+- [Supporting the project](https://ko-fi.com/chimely)
 
 ## Privacy
 
