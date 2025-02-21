@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 :root {
     --primary-color: #6B4C7A;
         --primary-hover: #5A3F66;
@@ -18,19 +20,17 @@
 
 
 .logo {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
-.logo-text {
-    font-family: 'Inter', sans-serif;
-    font-weight: 700;
+.logo span {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
     font-size: 1.75rem;
-    letter-spacing: -0.02em;
     color: var(--primary-color);
-    /* Alternativně můžeme použít gradient */
-    /* background: linear-gradient(135deg, #6B4C7A 0%, #8A6AA5 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
+    position: relative;
+    bottom: 11px;
+    left: 2px;
 }
 
 body {
